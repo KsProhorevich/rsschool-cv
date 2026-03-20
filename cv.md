@@ -1,6 +1,6 @@
 # Kseniya Prakharevich 
 
-![Photo](./assets/IMG_1566.jpg)
+![Photo](./assets/IMG_1566.JPG )
 
 ---
 ## Junior Frontend Developer
